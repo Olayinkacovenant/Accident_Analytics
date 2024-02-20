@@ -5,7 +5,10 @@
 - [Data Sources](#data-sources)
 - [Tools](#tools)
 - [Data Preparation](#data-preparation)
-- [Exploratory Data Analysis](exploratory-data-analysis)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Data Analysis](#data-analysis)
+- [Results](#results)
+- [Recommendations](#recommendations)
 
 ### Project Overview
 Accident Analytics is a data analysis project aimed at extracting meaningful insights from road accident data. The project utilizes a dataset containing information about road accidents, including factors such as accident severity, number of vehicles involved, light conditions, junction details, day of the week, weather conditions, road surface conditions, vehicle types, speed limits, and time of day.
@@ -102,7 +105,7 @@ FROM (
 ) subquery
 GROUP BY time_indicator;
 ```
-### Results/Findings
+### Results
 The analysis of road accident data from the 'road_accident' dataset yielded several significant findings:
 1.	Accident Severity Distribution:
 •	Majority of accidents are categorized as "Slight", followed by "Serious" and "Fatal".
