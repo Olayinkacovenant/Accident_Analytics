@@ -1,5 +1,12 @@
 # Accident_Analytics
 
+## Table of Content
+- [Project Overview](#project-overview)
+- [Data Sources](#data-sources)
+- [Tools](#tools)
+- [Data Preparation](#data-preparation)
+- [Exploratory Data Analysis](exploratory-data-analysis)
+
 ### Project Overview
 Accident Analytics is a data analysis project aimed at extracting meaningful insights from road accident data. The project utilizes a dataset containing information about road accidents, including factors such as accident severity, number of vehicles involved, light conditions, junction details, day of the week, weather conditions, road surface conditions, vehicle types, speed limits, and time of day.
 
