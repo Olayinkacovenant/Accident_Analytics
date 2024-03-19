@@ -1,4 +1,5 @@
 # Accident_Analytics
+![accident-driving](https://github.com/Olayinkacovenant/Accident_Analytics/assets/37605719/1fb41331-20ce-4551-8ca8-6b7c32c66c89)
 
 ## Table of Content
 - [Project Overview](#project-overview)
