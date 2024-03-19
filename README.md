@@ -127,6 +127,8 @@ The analysis of road accident data from the 'road_accident' dataset yielded seve
 •	Afternoon witnesses the highest occurrence of accidents, followed by evening and morning. Nighttime records the least accidents.
 
 ### Recommendations
+![-zero-accidents](https://github.com/Olayinkacovenant/Accident_Analytics/assets/37605719/fa701fe8-b7a8-4b18-8c98-8b3d15c95701)
+
 Based on the findings from the analysis of road accident data, several recommendations can be made to improve road safety and reduce the frequency and severity of accidents:
 -	Increase Awareness and Enforcement of Speed Limits:
 Since many accidents happen where the speed limit is 30 mph, we should make sure people stick to these limits, especially in areas where accidents are common.
